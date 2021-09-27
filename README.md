@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i am Gabriel Garcia 👋
 
 - 🔭 I’m currently working on fullstack development (junior level)
 - 🌱 I’m currently learning .NET, javascript frameworks and NoSQL
