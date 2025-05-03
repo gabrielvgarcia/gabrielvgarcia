@@ -1,7 +1,27 @@
 ### Hi there, i am Gabriel Garcia 👋
 
-- 🔭 I’m currently working on fullstack development
-- 🌱 I’m currently learning .NET, javascript frameworks and NoSQL
+## 💼 About Me
+
+I am a professional with 4 years of experience in software development, focusing on Back-End, where my main language is C#. I have experience in all stages of the development cycle, from analysis to implementation. I work with API integrations, software architecture, and performance optimization, in addition to having knowledge in relational and NoSQL databases. Some of my knowledge includes experiences such as .NET, Entity Framework, Dapper, microservices, SQL Server, Git and GitHub, and CI/CD pipelines.
+
+## 🛠️ Skills
+
+- Full Stack Development  
+- .NET C#  
+- APIs  
+- Relational and Non-Relational Databases  
+- Entity Framework  
+- Dapper  
+- Microservices  
+- Git & GitHub  
+- CI/CD  
+- Java  
+- JavaScript  
+- Vue.js  
+- Angular  
+- React.js  
+- Agile Methodologies  
+- Intermediate English  
 
 <div align="center">
   <a href="https://github.com/gabrielvgarcia">
