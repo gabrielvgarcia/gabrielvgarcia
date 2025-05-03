@@ -43,6 +43,8 @@ I am a professional with 4 years of experience in software development, focusing
  
 ## 📫 Contact
 
+Feel free to reach out to me!
+
 <div>
   <a href="https://instagram.com/gabrvgarcia" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
